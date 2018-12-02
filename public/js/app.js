@@ -51137,7 +51137,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
-//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
@@ -51175,8 +51174,6 @@ var render = function() {
           ])
         ])
       ]),
-      _vm._v(" "),
-      _c("span", { staticClass: "glyphicon glyphicon-arrow-left" }),
       _vm._v(" "),
       _c("router-link", { attrs: { to: "/" } }, [
         _c("i", { staticClass: "fas fa-chevron-left" }),

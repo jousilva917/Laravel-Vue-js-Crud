@@ -6,7 +6,6 @@
                 <p class="card-text">Body: {{ post.body }}</p>
             </div>
         </div>
-        <span class="glyphicon glyphicon-arrow-left"></span>
         <router-link v-bind:to="'/'"><i class="fas fa-chevron-left"></i> Voltar para a Home</router-link>
     </div>
 </template>
